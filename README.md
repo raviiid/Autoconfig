@@ -1,6 +1,7 @@
 ### **Autoconfig | کانفیگ خودکار**  
 
-[english page 🇬🇧 ])(https://fa.piliapp.com/emojis/flag-united-kingdom/)
+ [english  page ](https://aistudio.google.com/)
+
 ⚠ **توجه:** این پروژه همچنان در **فاز بتا** قرار دارد!  
 
 ## **درباره پروژه**  
