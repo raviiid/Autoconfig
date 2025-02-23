@@ -1,33 +1,28 @@
-# Autoconfig/کانفیگ خود کار
+Autoconfig | کانفیگ خودکار
+⚠ توجه: این پروژه همچنان در فاز بتا قرار دارد!
 
-""""توجه تو جه ، این پروزه هنوز توی فاز بتاست """"
+درباره پروژه
+Autoconfig یک مجموعه از ساب‌لینک‌های رایگان است که از کانفیگ‌های منتشرشده در گیت‌هاب و کانال‌های تلگرامی جمع‌آوری شده است.
 
+با استفاده از این پروژه، می‌توانید کانفیگ‌های مختلف را به‌صورت خودکار در کلاینت‌های زیر اضافه کنید:
 
-یه سابلینکی که با استفاده کانفیگ های رایگان گیت هاب و چنلای تلگرامی ، توسط ما جمع آوری شده 
+V2RayNG
+V2RayN
+Hiddify
+NekoBox
+Nikang
+Mahsang
+دریافت کانفیگ‌ها
+برای استفاده، یکی از لینک‌های زیر را در کلاینت خود اضافه کنید:
 
-شما میتونید یکی از سابلینکای زیر رو توی کلایت های : 
-v2rayng 
-v2rayn
-hiddify
-neko box 
-nikang  
-mahsang 
-اضافه کنی
+🔹 VLESS:https://raw.githubusercontent.com/raviiid/Autoconfig/refs/heads/main/vless.text
+👉 دانلود کانفیگ VLESS
 
+🔹 Shadowsocks (SS):https://raw.githubusercontent.com/raviiid/Autoconfig/refs/heads/main/ss.text
+👉 دانلود کانفیگ SS
 
-خب میتونی از سابلیت های  پایین استفاده کنی
+🔹 VMess:https://raw.githubusercontent.com/raviiid/Autoconfig/refs/heads/main/vmess.text
+👉 دانلود کانفیگ VMess
 
-vless sublink config :https://raw.githubusercontent.com/raviiid/Autoconfig/refs/heads/main/vless.text
-
-ss sublink config : https://raw.githubusercontent.com/raviiid/Autoconfig/refs/heads/main/ss.text
-
-vmess sublink config: https://raw.githubusercontent.com/raviiid/Autoconfig/refs/heads/main/ss.text
-
-
-کانفیگای این پروژه هر روز اپدیت میشه 😎
-
-
-
-
-
-
+🚀 به‌روزرسانی روزانه
+کانفیگ‌های این پروژه به‌صورت روزانه آپدیت می‌شوند تا بهترین کیفیت اتصال را ارائه دهند! 😎
