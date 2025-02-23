@@ -16,13 +16,13 @@ Mahsang
 برای استفاده، یکی از لینک‌های زیر را در کلاینت خود اضافه کنید:
 
 🔹 VLESS:https://raw.githubusercontent.com/raviiid/Autoconfig/refs/heads/main/vless.text
-👉 دانلود کانفیگ VLESS
+
 
 🔹 Shadowsocks (SS):https://raw.githubusercontent.com/raviiid/Autoconfig/refs/heads/main/ss.text
-👉 دانلود کانفیگ SS
+
 
 🔹 VMess:https://raw.githubusercontent.com/raviiid/Autoconfig/refs/heads/main/vmess.text
-👉 دانلود کانفیگ VMess
+
 
 🚀 به‌روزرسانی روزانه
 کانفیگ‌های این پروژه به‌صورت روزانه آپدیت می‌شوند تا بهترین کیفیت اتصال را ارائه دهند! 😎
