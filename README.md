@@ -20,13 +20,13 @@ Autoconfig یک مجموعه از **ساب‌لینک‌های رایگان** ا
 برای استفاده، یکی از لینک‌های زیر را در کلاینت خود اضافه کنید:  
 
 🔹 **VLESS:**  
-👉 [دانلود کانفیگ VLESS](https://raw.githubusercontent.com/raviiid/Autoconfig/refs/heads/main/vless.text)  
+👉 [ کانفیگ VLESS](https://raw.githubusercontent.com/raviiid/Autoconfig/refs/heads/main/vless.text)  
 
 🔹 **Shadowsocks (SS):**  
-👉 [دانلود کانفیگ SS](https://raw.githubusercontent.com/raviiid/Autoconfig/refs/heads/main/ss.text)  
+👉 [ کانفیگ SS](https://raw.githubusercontent.com/raviiid/Autoconfig/refs/heads/main/ss.text)  
 
 🔹 **VMess:**  
-👉 [دانلود کانفیگ VMess](https://raw.githubusercontent.com/raviiid/Autoconfig/refs/heads/main/vmess.text)  
+👉 [ کانفیگ VMess](https://raw.githubusercontent.com/raviiid/Autoconfig/refs/heads/main/vmess.text)  
 
 ## **🚀 به‌روزرسانی روزانه**  
 کانفیگ‌های این پروژه **به‌صورت روزانه** آپدیت می‌شوند تا بهترین کیفیت اتصال را ارائه دهند! 😎  
