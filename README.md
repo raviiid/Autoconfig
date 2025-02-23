@@ -11,4 +11,16 @@ mahsang
 اضافه کنی
 
 
+خب میتونی از سابلیت های  پایین استفاده کنی
+
+vless sublink config :https://raw.githubusercontent.com/raviiid/Autoconfig/refs/heads/main/vless.text
+
+ss sublink config : https://raw.githubusercontent.com/raviiid/Autoconfig/refs/heads/main/ss.text
+
+vmess sublink config: https://raw.githubusercontent.com/raviiid/Autoconfig/refs/heads/main/ss.text
+
+
+
+
+
 
