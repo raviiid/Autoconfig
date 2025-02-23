@@ -1,4 +1,7 @@
 # Autoconfig/کانفیگ خود کار
+
+""توجه تو جه ، این پروزه هنوز توی فاز بتاست ""
+
 یه سابلینکی که با استفاده کانفیگ های رایگان گیت هاب و چنلای تلگرامی ، توسط ما جمع آوری شده 
 
 شما میتونید یکی از سابلینکای زیر رو توی کلایت های : 
@@ -18,6 +21,9 @@ vless sublink config :https://raw.githubusercontent.com/raviiid/Autoconfig/refs/
 ss sublink config : https://raw.githubusercontent.com/raviiid/Autoconfig/refs/heads/main/ss.text
 
 vmess sublink config: https://raw.githubusercontent.com/raviiid/Autoconfig/refs/heads/main/ss.text
+
+
+کانفیگای این پروژه هر روز اپدیت میشه 😎
 
 
 
