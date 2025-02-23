@@ -1,6 +1,6 @@
 ### **Autoconfig | کانفیگ خودکار**  
 
- [english  page ](https://aistudio.google.com/)
+ [english  page ](https://github.com/raviiid/Autoconfig/blob/main/READMEEN.md)
 
 ⚠ **توجه:** این پروژه همچنان در **فاز بتا** قرار دارد!  
 
